@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691936961 source:d:\code blocks\codeblocksprojects\stock\stock\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
